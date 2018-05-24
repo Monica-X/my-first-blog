@@ -25,7 +25,7 @@ SECRET_KEY = '%58g$%yjo*96j^g027v1#!2cq)rwfic_9d7^f#@$8%gm_5$1jd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nellyx.pythonanywhere.com' ]
 
 
 # Application definition
